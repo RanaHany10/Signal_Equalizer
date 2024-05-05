@@ -35,8 +35,8 @@ Signal Equalizer is a powerful desktop application designed to manipulate and eq
 
 ## Contributors
 
-- [Rana Hany]([link](https://github.com/RanaHany10))
-- [Sarah Ibrahim]([link](https://github.com/sarah1ibrahim))
+- [Rana Hany](https://github.com/RanaHany10)
+- [Sarah Ibrahim](https://github.com/sarah1ibrahim)
 - [Basmala Tarek](link)
 
 
