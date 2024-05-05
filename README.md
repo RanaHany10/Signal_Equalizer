@@ -11,6 +11,12 @@ Signal Equalizer is a powerful desktop application designed to manipulate and eq
 - **Signal Visualization:** Visualize both input and output signals with linked cine signal viewers and spectrograms, ensuring real-time feedback on equalization adjustments.
   
 - **Customizable Spectrograms:** Toggle show/hide option for spectrograms, allowing for a focused view on signal analysis.
+
+### Music Mode
+https://github.com/RanaHany10/Signal_Equalizer/assets/115092108/497e558e-1ab2-4b75-83a9-be6873d37aad
+
+### Animal Mode
+https://github.com/RanaHany10/Signal_Equalizer/assets/115092108/a65ce4e1-8786-4eb6-9995-76958b5d2e7e
   
 ## Usage
 
